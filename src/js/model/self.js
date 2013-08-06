@@ -6,10 +6,14 @@ define([
 
   /**
 <<<<<<< HEAD:src/js/model/currentUser.js
+<<<<<<< HEAD:src/js/model/currentUser.js
     Current user object. Is initialized unauthenticated. This object is returned when CurrentUser module is initialized.
 =======
     Current user object. Is initialized unauthenticated. This object is returned when Self module is initialized.
 >>>>>>> 47e7f29... Fixed issue #25:src/js/model/currentUser.js
+=======
+    Current user object. Is initialised unauthenticated. This object is returned when Self module is initialised.
+>>>>>>> be99685ff3a81cbd2c77b88b7db16c14d121210c:src/js/model/self.js
 
     @property _user
     @type User
