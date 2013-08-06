@@ -5,7 +5,11 @@ define([
   'use strict';
 
   /**
+<<<<<<< HEAD:src/js/model/currentUser.js
     Current user object. Is initialized unauthenticated. This object is returned when CurrentUser module is initialized.
+=======
+    Current user object. Is initialized unauthenticated. This object is returned when Self module is initialized.
+>>>>>>> 47e7f29... Fixed issue #25:src/js/model/currentUser.js
 
     @property _user
     @type User
